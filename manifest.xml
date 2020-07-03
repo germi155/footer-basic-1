@@ -7,6 +7,6 @@
     <description>Adds a way to receive.</description>
     <requires>
         <type>elgg_release</type>
-        <version>2.0</version>
-    </requires>
+        <version>2.0</versionr>
+    </rfrfdes>
 </plugin_manifest>
